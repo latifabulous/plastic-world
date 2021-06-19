@@ -10,4 +10,4 @@ Terdapat beragam komunitas yang dapat menyelenggarakan event juga mengedukasi ma
 Demo 
 *********
 
--  `Front-end <https://latifabulous.github.io/>`_
+-  `Front-end <https://latifabulous.github.io/>`_ sebelum masuk tahap final.
